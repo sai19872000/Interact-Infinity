@@ -1,0 +1,9 @@
+transformers
+torch
+pytorch-lightning
+langchain
+pdf2image
+pypdf
+sentence_transformers
+chromadb
+gpt4all
