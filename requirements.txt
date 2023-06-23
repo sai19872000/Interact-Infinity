@@ -7,3 +7,5 @@ pypdf
 sentence_transformers
 chromadb
 gpt4all
+faiss-gpu
+gradio
